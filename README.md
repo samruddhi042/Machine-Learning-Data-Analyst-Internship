@@ -26,7 +26,7 @@ Throughout this internship, the following objectives are achieved:
 # Repository Structure
 
 ```text
-Agribusiness-ML-Internship/
+ML&DA_Internship/
 │
 ├── README.md
 │
